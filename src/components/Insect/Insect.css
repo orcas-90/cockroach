@@ -1,0 +1,18 @@
+.Insect-Button {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(206, 146, 48);
+    color: rgba(55, 0, 255, 0.68);
+    border-color: aquamarine;
+    border:none;
+    margin-top: 150px;
+}
+.Insect-Cockr {
+    position: absolute;
+    cursor: url('./paw.png'), pointer;
+}
+
+.Insect {
+    position: relative;
+    
+}
